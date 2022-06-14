@@ -9,5 +9,3 @@ Then I added an <aside> on the 75th line and closed on the 81st line. I added th
 <aside> on line 84th and 90th as well on 93 and 99
 <Footer> is the last on I added on line 103 and closed on 110. Since there was a copyright information a footer was need.
 ![alt text](../../../../Desktop/01-html-css-git-homework-demo.png)
-
-Webpage: http://127.0.0.1:5500/Develop/index.html#online-reputation-management
