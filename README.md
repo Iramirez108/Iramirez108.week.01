@@ -1,5 +1,5 @@
 # Iramirez108.week.01
-In order to make the code more readable. I applied semantic elemnts in a number of areas. 
+In order to make the code readable. I applied semantic elemnts in a number of areas. 
 To start I added the <header> in the 10th line and closed the </header> in the 31st line.
 There were three sections in the code starting with putting <section> on the 35th line and closing it on the 45th line.
 In the section there were pictures so I added <figure> on line 49 and closed it on line 51. Figure was added because  I wanted to specify a self conatined photo 
